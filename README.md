@@ -1,16 +1,27 @@
-## Hi there 👋
+👨‍💻 Hello, world!
 
-<!--
-**Avriti36/Avriti36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS👩‍💻 graduate who enjoys breaking problems down, building them back up, and shipping full-stack web apps along the way. I work mainly with the MERN stack, write a lot of C++, and care about clean structure more than clever hacks.🙇‍♀️
 
-Here are some ideas to get you started:
+I like digging into how things work, from APIs and databases to memory, logic, and design choices. Most days you’ll find me coding, refactoring, or convincing myself that this time the bug is definitely gone.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always building, always learning, occasionally over-engineering (on purpose).🫩
+
+## 👓 Technical Skills
+
+- Languages: JavaScript (ES6+), C++, C#, Java, Python
+- Frontend: React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Bulma
+- Backend: Node.js, Express.js
+- Databases: MongoDB, MySQL
+- State & Auth: Redux, Firebase  
+- Tools: Git, GitHub, npm, Postman, GCP, third-party API integration
+ 
+
+## 🥽 Core Strengths
+
+- Full-stack MERN development
+- Clean, reusable component architecture
+- API integration & backend logic
+- Performance optimization & scalability
+- Problem-solving & DSA fundamentals
+- Real-world project development
+ 
