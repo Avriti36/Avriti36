@@ -9,11 +9,11 @@ Always building, always learning, occasionally over-engineering (on purpose).�
 ## 👓 Technical Skills
 
 - Languages: JavaScript (ES6+), C++, C#, Java, Python
-- Frontend: React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Bulma
-- Backend: Node.js, Express.js
-- Databases: MongoDB, MySQL
+- Frontend: React.js, Next.js, CSS3, Tailwind CSS, Bootstrap
+- Backend: Node.js, Express.js, Python
+- Databases: MongoDB, MySQL, PostgreSQL, Redis
 - State & Auth: Redux, Firebase  
-- Tools: Git, GitHub, npm, Postman, GCP, third-party API integration
+- Tools: Git, GitHub, npm, Postman, GCP, LLM third-party API integration
  
 
 ## 🥽 Core Strengths
